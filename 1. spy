@@ -1,32 +1,403 @@
 {
-  "username": "meriasaluso",
-  "album": [
-    "spy"
+  "Ads": [
+    {
+       "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"1234567890",
+      "backup_ads_intertitial":"1234567890",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "switch_open_ads":"1",
+      "switch_banner_natives_ads":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"1234567890",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
   ],
-  "init_jumlah_photo": 100,
-  "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
-  "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
-  "admob_rewarded_id": "",
-  "admob_rewarded_interstitial_id": "",
-  "admob_open_app_id": "ca-app-pub-3940256099942544/3419835294",
-  "admob_hpk_1": "",
-  "admob_hpk_2": "",
-  "admob_hpk_3": "",
-  "admob_hpk_4": "",
-  "admob_hpk_5": "",
-  "startapp_app_id": "",
-  "unity_id": "",
-  "unity_banner": "",
-  "unity_interstitial": "",
-  "max_banner": "",
-  "max_interstitial": "",
-  "max_native": "",
-  "interstitial_inverval": 3,
-  "list_ads": [
-    "ADMOB",
-    "UNITY",
-    "STARTAPP",
-    "MAX"
+  "Categories": [
+    {
+      "name_category": "wallpaper",
+      "wallpaper_url": "category/image.jpeg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper1",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 2,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper2",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 3,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper3",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 4,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper4",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 5,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper5",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 6,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper6",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 7,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper7",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 8,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper8",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 9,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 10,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 11,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 12,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 13,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 14,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 15,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 16,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 17,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 18,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 19,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 20,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 21,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 22,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 23,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 24,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 25,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 26,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 27,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 28,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 29,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 30,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 31,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 32,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 33,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 34,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 35,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 36,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 37,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 38,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 39,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 40,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 41,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 42,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 43,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 44,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 45,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 46,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 47,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 48,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 49,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 50,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 51,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper51",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+	{
+      "id": 52,
+      "name_category": "wallpaper",
+      "wallpaper_name": "wallpaper52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    }
+	
   ]
 }
