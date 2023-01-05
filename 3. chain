@@ -1,0 +1,394 @@
+{
+	"Ads": [
+		{
+			"select_main_ads": "ADMOB",
+			"select_backup_ads": "APPLOVIN-D",
+			"main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+			"main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712",
+			"main_ads_natives": "ca-app-pub-3940256099942544/2247696110",
+			"backup_ads_natives": "",
+			"backup_ads_banner": "1234567890",
+			"backup_ads_intertitial": "1234567890",
+			"open_ads_admob": "",
+			"open_ads_alien": "",
+			"switch_open_ads": "1",
+			"switch_banner_natives_ads": "1",
+			"on_off_native_listview": "1",
+			"interval_intertitial": 2,
+			"initialize_sdk": "1234567890",
+			"initialize_sdk_backup_ads": "",
+			"high_paying_keyword_1": "car",
+			"high_paying_keyword_2": "insurance",
+			"high_paying_keyword_3": "home",
+			"high_paying_keyword_4": "phone",
+			"high_paying_keyword_5": "law",
+			"status_app": "0",
+			"link_redirect": "https://"
+		}
+	],
+	"Categories": [
+		{
+			"name_category": "wallpaper",
+			"wallpaper_url": "category/logo.png"
+		}
+	],
+	"Wallpaper": [
+		{
+			"id": 1,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper1",
+			"wallpaper_type": "MP4",
+			"wallpaper_url": "https://www.blogger.com/video.g?token=AD6v5dxCSWaKBfo8MfXF8eif4ZYDU5kIe5KgVX7eMfvu6D5XWa_jt1l0aerkC_s6EGHZhYyji_The_HiU_0TFXGVmdUEvH5-Di6r7NiYIkzMuqcd_hw7V5UCbu3eZ5JwktizpdYe0Eo"
+		},
+		{
+			"id": 2,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper2",
+			"wallpaper_type": "MP4",
+			"wallpaper_url": "https://www.blogger.com/video.g?token=AD6v5dxvVnXFVfOQaWL3qYF1zzbU6a0mr1fHqoRE-ReoQ6uG0E4V9oYUnAs0Ji3fJTZxEz5sozD6JJWuc3DwJnzK_pPebUTHnqqtrKG5LxwUpZ6bvJxdm9QA90rkTsuse7NRjuUNyQs"
+		},
+		{
+			"id": 3,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper3",
+			"wallpaper_type": "MP4",
+			"wallpaper_url": "https://www.blogger.com/video.g?token=AD6v5dzA7qkHoRPpGLiLvYIB6if-TOI4ExpcvBVU5Q5yE5cx3-F7to1QLoc4pe56fLdI3olYe4kfqMLmT0BztKy9ZoJEm_caM1SwtXS6HT-0pyQ0UrfQlN9-Xjs-9O4VJz4st-pZiWs"
+		},
+		{
+			"id": 4,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper4",
+			"wallpaper_type": "MP4",
+			"wallpaper_url": "https://www.blogger.com/video.g?token=AD6v5dyr8H-STAefs0lfJyZ_5fs8bP08qAqxPgTqlin-nZT0b6YsUlV4ExRkosTWo-vNL6fgijm1JC4LMt5H8e9LFD3AWzINlWmZbZJpwBIgNCLj_r-xGM9y77qkyzfbmIAtqclBKcE"
+		},
+		{
+			"id": 5,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper5",
+			"wallpaper_type": "MP4",
+			"wallpaper_url": "https://www.blogger.com/video.g?token=AD6v5dw_qQW1kqQUvKYRnAYV0RsEMXLd4pT2Z1HLqAv6n5Vu7C23UMZOJDdcA9ul6Xl3rzWD4Nue-mXphdWUTBNCit24rVCuxeDaB3Pz9EFkfqDCZZD408Uny7AG94hRaDxoJC6z6nr1"
+		},
+		{
+			"id": 6,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper6",
+			"wallpaper_type": "MP4",
+			"wallpaper_url": "https://www.blogger.com/video.g?token=AD6v5dyweeSO89espcWqwuAdiv7-T4y0fzzGjYIMT18t4rNnHdxRsCmF835-uzcB9Z0C6YlWENw5D3eUHgNPPSjwdCe4SxkpZ55Z3HI25SFceFHHMqBDsT4G7fDiG8Segffl0Ixy3IA"
+		},
+		{
+			"id": 7,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper7",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://www.blogger.com/video.g?token=AD6v5dxtBiQgmUT3KnGqEg-AzCHQQcVJU8SHkE-oWhPqoyT4CreI17_-RXHxR4mK7-SFAAQw007NA9ATmkL0OMuhCoaY4w-4sgtPGKRpf-KXaxgoO09oPhvP2YsAsQFp9Z74atID1NF3"
+		},
+		{
+			"id": 8,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper8",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://www.blogger.com/video.g?token=AD6v5dzu5l60BWp48DKRPCLXDAeJsvPShRzsBZoC-3HkMBapE6GeqIpzUm1qdB8_bWStWvGN4UAuU1UTF3rHs089M86MOEo0an1qdcjfqQ6MHOJuj75HRQW_w0qMxyMtaq71aPyiDwjs"
+		},
+		{
+			"id": 9,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper9",
+			"wallpaper_type": "GIF",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYbMNUvqDkRNECRy-MamJRk27aSwuQ2_ScffDGG_m-6NJz9tUSxXCDgFEYiozmmpmxvBcPW-xtJjxCufz87XABftLYVtWl6G-MLhTo2lccqrAYwNUbjZFOtAkP5v7swarQAhnQI7nk1Am1yE7aOxma3PDOA-QpsIL3VvGV3HvmUSdPS5n_TADewC1D/s640/1.gif"
+		},
+		{
+			"id": 10,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper10",
+			"wallpaper_type": "GIF",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVu9loNTl6msfUHetDZ70v_jtzWjnWAA15850FFE_clbuX4hBcIn3y3ISB4bAu22ptzBVZ5lDmuJAG0JPse-7X3UJMKok4gycGvRvkQzNGszkz3gBPUQS26mKrh5r8A-i6aXhfwHoLjBGreoULUiH8QR_XY8icQatT9d9-B2-96vV-Y27SpdYowf76/s640/2.gif"
+		},
+		{
+			"id": 11,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper11",
+			"wallpaper_type": "GIF",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY62wjuPOn09tXofsGDLlhnxIAZZ4P_-bDfw7LoodcYClWrrKyqQx877mrcqGdHWoBt3Gg3mRza8AryYV6nIyxCD9FIq8fRkl2bkn3Cs1TFa9jadUKQ8TTcvIQ6DtB4-ltSxnMtqFk-9N3e4BcsKKonx-GSY8NF8OFfTUyVL13u980fNYIAXgP3771/s640/3.gif"
+		},
+		{
+			"id": 12,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper12",
+			"wallpaper_type": "GIF",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjgpGV4g2Sp4rX6fNIW-nYAaBv5W1tr79CNIb_q2S866lDo_VB9xjDt9tr07nz-CKvq1WEJVvPX4P-vlYWbOikrhlP8dONg1m50xcUvj2B4xCTmdeLR0lYjNaAnmpiscj_7XyasQxRjlRx_uzJu6SVCCLnLfpOW0pHeemJMLJANgrh-0cJhE4q--qF/s640/4.gif"
+		},
+		{
+			"id": 13,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper13",
+			"wallpaper_type": "GIF",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyaNRUi7zDInD-UEImd-qnK_5t6SWNMPzrqzJqKqpCwLUXqQsnKfeDlPeI6MeUOwtLFIgF4V46VmhQahA8MleuWrRHwWqoEtmp4ZjNc4szbLP8BU6xDNKm5H9RejW0f5P76fs1sUjFouh111w7ItEYkvD4g_f4ABPqR-uS1RjaVmCgUm1ThS9cGc0z/s640/5.gif"
+		},
+		{
+			"id": 14,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper14",
+			"wallpaper_type": "GIF",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGm2WkL4lwDCC9K8hLDk1HH2AdErtYoc8Kko7qEequfJZ2HzHJPrgH2tfCfdYfES5yEt7vfuONBLnnYyViAuMyIhVUlyYn7F1YKz2_3G7A1khLG0tVMiMmDBj9jpZAMx1VA1fse92OZUCtna4cYHmBJ_UdbSCQz3g6a2AbVcHGjtI3qc1l1BSv3oWo/s640/6.gif"
+		},
+		{
+			"id": 15,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper15",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEie7VVYpWOzHJWsFAQcmbnW7dEQc2F0aqjg5ve-aXgox-gJ08isvaMDZBl74EhmhIxYVTalmiOETY5y1fe64wtkTrcxAdlbxdQRee7v3g0qMM_tB9qRUW0YZvZi2jMK7j4n6qQmhqIv2_kRIjHFQv2oDbzgxucVrntiiK_34LjZAEthHr8OvvBDl3gK/s1158/40.jpg"
+		},
+		{
+			"id": 16,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper16",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6iHCqRYGqwmJIfjii4vamysiUxALEys_mmp5-J2twtgBkObS1xKRxv6Dxtj8RNETgu-pW21z_N3S5GNT9viogGcv9s-4rIuUfgx4QjhodzRXBkNVNOG5O8SJNsVeBhs9-bbhBbMFrosc41z0IfcQaejlK6oWmp7YgX_oKTAikGQj9Nn0nz7zyNPSC/s1128/39.jpg"
+		},
+		{
+			"id": 17,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper17",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiof4aT2g4KEqF2YNIDpT5tOwIOelW4ShEs62FYplg201cWW2KwoCLoAAb0lQZMEZ9j9BfA_pnExbtqnG_e8bQBgFZg2doUx4u1lt_vqm72LnzSzJmUerACiTrkFGqDuc0nsmrrLyjbukReIwboq4y2W87hC-fzG3G-shZLXdbMEDrENj-WgYgmxVA6/s1002/38.jpg"
+		},
+		{
+			"id": 18,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper18",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwJEwzqJRDT3kQBjQEh5TedoVO_f1Zl4pHl0Fq6cliM2_plR3F2pzPVroj-CVzUHuRG0cAfB4puCsSgb528xEihaM3AsWiuLToVzwg8V_INnBYlHo7h73fqv-Vp7w6WPxYnzqX3mOZuQC2nMRYWImZNjG3ltwRFaGF68W0t7iSmJSKVgtO8rrJHHbQ/s1002/37.jpg"
+		},
+		{
+			"id": 19,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper19",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWNmAb-2mk0Yv9Hs51ZbBjLeJLpeWO0y5V4rtMhFEpVStrnt9wN9MEARFiyvSvMw7Fq43mKhBEvhC8wuxFjNjATdW6EqCUtZQub-0kPStbbFAXGYkub0d5lI7IqfmwLyq2TI_31R2T2JLtagHcCN7d-LvbzBpqFOC-aWt4A3wmdLxPcrkgiPm3BW2c/s909/36.jpg"
+		},
+		{
+			"id": 20,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper20",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg21muxApWEvXlnJ8G6W0b3lEPgRVqeVRgzD4JONo_9xS9yqiuMzORvxMsj5EGa30vgwevjypbvSQROuu-RcNurGCRjJseGNth9ZsYCkE0dbvwDLW51Toz4P6YJ-AuTTyVhlDQtml8E4VtFqqPkxxTxdReZVz2s2Al9MsLrxuI0R8eUPl7PhLRWa_CY/s1220/35.jpg"
+		},
+		{
+			"id": 21,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper21",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfISIb-w0JFhUXFyOEt2D0xq8L3YW_EdY0CV6sqS9Sk4BssvFlTOIxI-5LrNlGuNS3zVaBb6tvoYYd6YOC4t9WPDBdOQ4oDKsDYrFPHNSBjOaHSIiBgOFYc_3hF1tJ5B015_RqvZKGIFBFqohSXc517fh9KP7cNB0R8N-WuNo0PbfKjp47ScFsW8SB/s1037/34.jpg"
+		},
+		{
+			"id": 22,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper22",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1mE-P0--BBIK8RE-d9iAxWrc6ryVtKA0-e_zipAXP0S1XG3uFCP_A9NU_UeXS-S1dJ9Wb3vxGgYXI6iz6mJQ9mq5xUiPFJMdYZmIsBm8z-IVsM_c3az9ykiq7H2TeC-yMpnUgHn-4cKmdZhIrjxwZWn-BZ6dNTgxRFvAZnrMOJwIPBAnZDnJhgIzg/s1220/33.jpg"
+		},
+		{
+			"id": 23,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper23",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBYakwmxgfkn84MBn3dJUgAuaJ76hmi5BC1FucaxQC1XGXwHJwJpyN0JJ_9WVE-x4uQkoIDT4eEch1Pdd5okDm7TdkAMUf8ThWd3BD4BgDi9X-klb1tvRx53VaOxZmksLahvpw6vrw7-yobr_QmATtU4SW53t9m60BZN-KnUu4Mg4RAHrJN0jHKF9P/s798/32.jpg"
+		},
+		{
+			"id": 24,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper24",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfBCLF7GEKuV169jJOwcQUBEeCwI8zRZqnj38oPuNu9FhSaMJk5KhwJVUIcnUm4Q7SGkbe6awifk2Ht7woY-M5DktTvazr2euwlQdlWOyNkTf7_cv30mMD8Ppmid8ClleiCm64UNoTaEE_HLgqM2Xa3G3g_RRjLp7JR-wN9orqSP1rG7Nn7sF2lk6M/s1333/31.jpg"
+		},
+		{
+			"id": 25,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper25",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHJefsCSoXFtlNy-yt5hCUtpgWqNpfAgM5SmIh_t-APSOm76-w6xkX7SCHsdMdn8DNPzSd9MYK57_lyZVSpsQrXWPyyeKLh_M9Vnk8BCAXvWk_amfthJI58daMR5IO-rFmRy4EsY5PXRBcY7CD_-FW-hz_yNgcSsBVvyVt292iO4jbw9UHtD2iJnm1/s1041/30.jpg"
+		},
+		{
+			"id": 26,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper26",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyPda7p3MsooKTGFWWxkGhkBS48gau4ASm2WElg7-uXC1BXUJIR2FGt_1cOm6ymkn_vhs1XWO45PE9ikwvy46o2IHlzLF7QyVy50DpHMh41mm5qRnFUAE2ucGIH0Gq9WlyUWsjltunaEJljocZN0o7gkwYWcuWviRD3XcPickHFAfG0aPIiTM36aKx/s1252/29.jpg"
+		},
+		{
+			"id": 27,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper27",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqGZ2_-q6-JXakK531pLEsGKOpo-25eL0MbwlV672e-L-_ytrLMhM9eJh-KzxisRN-H3RwwC3EGq8vCv_QeFV7U8qvY7P8cCuXaAg5JtUNB6CQh0NOiAtgYGnLawtGUWCbevMP5SNT1vVVIY393KPQI7NBbDgkb7ogm8O4quWrBJ0KGmsEaXUrrFhu/s884/28.jpg"
+		},
+		{
+			"id": 28,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper28",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-U803LU5vSZn9DecGFov6kWIqL8CNrEzP7652PUfMBVNNxaK5vCcCrzOYJ2T79NLb5idth5b9ctjXP1QDg49osPPbMtKkJ-0hjbPLuitQ_LpEL2WVWz20DY2k7BXzqx1R2JNoIQCjtcjqp5sa3DB1SE67RwvWLX6_9d5gnv3gB9Jc8oe-z3506JEe/s1002/27.jpg"
+		},
+		{
+			"id": 29,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper29",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieSZ338-j0zKTn5JI2fUJZoIWMWMEdMeNFdQZBa53MeFY3iOmgSsjzhudAmjHQSPHFGI2I1eX_hHsMf9q5vgTISf8baHQhsDOxM7UD-Sqw8v0OredKMl4icDu0bGpluJS7d4Y-ph6M303Cz7rhyVAk9cceMAjLctl0QdNSYHy-w6W363bhA9CqrSSX/s720/26.jpg"
+		},
+		{
+			"id": 30,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper30",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0vOzM2aBAiEHaY8mRzBU9UtvxE8DRntRqz_qg_bUG16bXXnKDYQ3z_P1ZaOWDy_wHmZJbTQss2s7YQp3oTe0p3zrMA3KmZMaZcWDAt5sOsiJI62nrLdoqUat_urr-qrRdjOoirZMqgm8t2c6ztLO1LNuUofaZ2jlqMcwDbzQnQSmA0I-GDkFR3JiX/s1002/25.jpg"
+		},
+		{
+			"id": 31,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper31",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEir7b54e2S_6JPflceDfAyfZsK1VWkGLRpiThVYFs7gRDW_GpUfnppcqbFenZve6L8CUaDKxWN5K2G34EckKW6nILe7Xziwz9N2_qax4nW6Gb0X2CypBQ3nDUyxHghZqiWM2lJ8V4sgyfORorFqBfKAWeKwcTnXa_VRovYHkNVcH-OfRqej8aVKi22n/s1002/24.jpg"
+		},
+		{
+			"id": 32,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper32",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBwRBxoIhuSNPmLnMbZFVZIdx3hUfqaTcJQKvYTI5M-QCOETY6bb-v3qTjT6LvzXa0slODJH-ZjzqJZsCQg1lP1PXkvwARd9QvD4MVakgEfiqlcjkVWiOVjON0p1zUT-UHP4LFidypJV88KrYZdTJXFnypJRqOM2_IjNWIucKnYY74LQCc91O_TO1A/s1001/23.jpg"
+		},
+		{
+			"id": 33,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper33",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUxTyR_3k36_SvRf0Bc8lmXYaQgHbXgDggQ0YFOR2alesGlQ66pM2_LNETDaPEp7TltPSxKymjyzOc0uE6F6SV4RPfnzsEKPXjfnz8gU648CCAUWKZqKmQuEcikU5BWNb8jEkgHroHUrHIqAIqc-TyPWdRYKTH2qjVwsMWQT6OLZpvCLPHbTP1d7wf/s1333/22.jpg"
+		},
+		{
+			"id": 34,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper34",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisvvTnyonMq3BypGvfxXvx4cCh6TgxrD6kkrNW2xI914-9TDC_vXlZA8MvGKxiOh3b3vBXjnQJdNhX0gKfxi1pf6Jr8MVxE9p2ZlMBHW4Ixsiy3i4FbgKUZIpG0-yd-Ke-fXDEG2sWGoV0gDzZQUwc15rJSorKK-QuUvDoO03YllNQ72FbZh5erbyU/s821/21.jpg"
+		},
+		{
+			"id": 35,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper35",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifht9HgZcfk_3KEkycfdH_Ucd8Bw15Ks1aeHteJe-2yFDlGX5Y7dQrTUUvOHCftXj-0Mv_4yAE8h9qnZA1LhSlE49nYmU2fIayb2It089_oE8nQXetS9x90516HNe3E-CE64hn6tFOpVsguZ2SYHzjDfANNi6VQbJmyeCCxtnkYKum3BzO7rfS4Fl0/s844/20.jpg"
+		},
+		{
+			"id": 36,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper36",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg685w1URunNYsYwXrMjvyrojGkhKkwzWduUmXg6gqRrmGVPVwQEJCZ-ViJfRmd76Vj_3HRHTe6lgo_rMwGnH36VfKPlLS-oihcIosee3uXScFNcERRYqc5RBChu41lkYZCnozwzZRrPlSo491zsY6tqOBq-ESxkzceLS5zf9xXYnPTqaO1_RNMCVRL/s1013/19.jpg"
+		},
+		{
+			"id": 37,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper37",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwOBM-BGJiZQGbhglIyaPhpasEboZ06KqPA3twxzYMvJbplr6o4knYH_tv0DOLfGRglK18VWqj2BGlLENKOn4jwO5nkuoNKOgyW4AvK31CxNI2nabyMCbUd7wH0OrI0IYB29_5zEiNj20opNCoAPJqqCn9rngJqrEFafWAe60h4jZU7SA2MZruHgh0/s844/18.jpg"
+		},
+		{
+			"id": 38,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper38",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKvzQjo8GHBRkpnU0RUC8MtAsVZxXpUrcuXXjTeCdDD_NChQIM4jeVpXsNX4OjANdN-aYmi_uBC3h71CvhNBiyHyGAU9ovyeO_IgqkhZzIWJ5MNUlEcs5HZfbxmrQ4q6lTMtUUYqZOAzffdq0FpuH8Hcp-praI49H9-O8GNTOhGSrWT5roKtPVT6us/s1105/17.jpg"
+		},
+		{
+			"id": 39,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper39",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-596KT2aBp4ZJJW_ayPbhyJ6BuPeEdfiJw0ptWZKVIQAoH3Fnw4fTCIT1qmUPiH7PlS6wLqhX3-pBdISpkZG9VarxlV-3Nfjs52U8ce1sbBHmgDrRbN_0gT2vCroYOh3sF5obKME0UBZ4LxibVBj5tlnPyylvacLsC8aEZGIYevBQRuwroeoai66Z/s974/16.jpg"
+		},
+		{
+			"id": 40,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper40",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga3z3eCCmTlinpx7tQE5O2QoFqqjNuZLq2QQLuybfh6uQip8B-T2bX1-64ErwECBzMjNvG2F1N3vhgaksQqv3NB1EoIJ7UOfWRPe_LWJAEy9XS2DhtA6oUBRaVy12qmPbKb9gSyb3EtwCppBXN-yRfNVXuI7-3ZawI_0V5-wujiuV6gYN_7r12aJwP/s833/15.jpg"
+		},
+		{
+			"id": 41,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper41",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOE0o-dMeIfLhCFoPfTASH9kDntsipJcDxDpZxi9ovuPa3i-PFzM4Ja0RdrWnwadqFwuzPysmqsSqq6AhYV5G4P7c8PikY4tHPVtA-cjlHrpQEzDDnbD3iyu_obxM2QE3ShCv50OMWyPvACVOQ9i0Zt-oLnoQTMcBF52q0IsDDLOQBKvU4DNN6tk9M/s846/14.jpg"
+		},
+		{
+			"id": 42,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper42",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS0YKpdwFGwLDx7CR2stpxAMJ9mklqVZ-H-n_O0M19t1hwhK_1qBg2G941FDkPB-KrqSSR6WuV5wO_qY83xu_vjDV5-iU-mD9FQzwM6ZvkCX5W3XF8Q6dSO4iyf16B7ITBVvmlEiOZinFVfRFuCgYCwvPb231V34IhevOiP9ZCQJWy6TqwERD_ukMf/s1002/13.jpg"
+		},
+		{
+			"id": 43,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper43",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK_aO6j2ziG6USFbbsOq-z_69xBmA-RE_qRYeGj9qGl89Yw9r6d2EemSUKzJ-U-LFsMxQx_P3vTCHzd0zRJT8i-eStGcVEQcTFheNhX6cI7ndcxV7R2qjnmwOfDc6zXyqvFqNM9kHNGW2VEnu7aT3MyqKgxTTEUQfL5sjoYehtRMA_v_Akgx9RktI-/s1332/12.jpg"
+		},
+		{
+			"id": 44,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper44",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixTk-pnFH5q2PIOTD5ROzQVLolRUfLw6ef04lAzVlWJa1jbMu9tDNR7OSTlIfv-iZ1TfMHL8OjAK_HDxiwVJ17d435JqrdPfGZyIJys5iHHxe7Jvy9YH5MdROyShDVLXhYEkH84GqeGb5FYWuHzuW2qLJ8hW3_XPJeBxxkS2iqmSGPWvqi_nu27ujT/s889/11.jpg"
+		},
+		{
+			"id": 45,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper45",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRAeCf5fE1xLfYs5lj-L2h1sVF8sdwwRe7V9aKOxEd4j9uPdLRNSbSHBc9SkNr9woChNFnJSb5SOosjJQQIv_VAtQoEl2bLREnxzLlpiwflH_BOUPWXIwd-SvZ0-L1QI2uWePpAO29_CzYJuUOuQ_OCTLe8WORDOLbXIGa9k6p9Tz3vhJ-7pDBzq-L/s933/10.jpg"
+		},
+		{
+			"id": 46,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper46",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN3A0k0zI4qoSS7hwW6DARhd_HbuV_VrLWkppZKU8sC0gTnywHZYwdxO5P7iF-tT7SSFuYX2-EZHFVeH4PlQYXse_QaNAXsM4ocL_bSymM6nIi-2AuT3rbuGKbmCUyoVmu4s50L1PsMNvu6IvWjZZI4d7pNCe9YmnFXoWXyHGIStalBDfAw5lY3gnM/s1120/9.jpg"
+		},
+		{
+			"id": 47,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper47",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwmkMggD8I9BaDm2DfzqilUdy2sCqRxi0uWVeZPg0xMszFUfzGPd-POUIEsHhM_mrdhd7xSIWEeDR8EBSYOZjeIFLb6481y50toy3fgeRlewiNXdp-h561aW5_WhuzYArBOoTIHIz-O7SgUjCN0l9XqMQj9ITAjstuEAj9GKJAFT45OqV-kmXnEcuy/s1198/8.jpg"
+		},
+		{
+			"id": 48,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper48",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3P94aW9XqXNuJxdgAcPFDLuD1wEHr83eIy9WYKPwEnGNteqhiN6nIJCrOAoiQ1EwqksIZCUnll1TRRic8v4HQkqmFqjfHGmkrkJePTogyqJRRqhAX41gdywsw8zcWsihz8NI4X-7LdSiQ-Uyo5m0AIEwP1srZp5rJvCxDr63hIeFRCsJjNHeYc-cc/s1333/7.jpg"
+		},
+		{
+			"id": 49,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper49",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWg8fGHjBZ5l2NdCZTVm6tbjasO3v9eJ8v792sbmQMXWNckRi-Fqj5Q3RtoP1nLyhLH3oBQHeXLcdi_lHl6nvl6T6uiZd8CulEQ4xAijweQdU-zLbeLvNsO2cgpLHF66r-9JPs_dMgmCyN4y5y18MlwO-C8ZNpoHx9U2iUt27uqjNvgfQOwZtVVIhK/s871/6.jpg"
+		},
+		{
+			"id": 50,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper50",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3SGbtVJmLYSzkzvf4PEy_Upr0PU4k1grK16prksvkGUamQObsfiBxw0vrA8a1wQlo2UNyXyaA1EO-SB6LH8hpmNfaryD3bdaIdUDK8868FopcMoIXawEHQ8FiOaednTAYUiTuBECM3JkgJXljH5Dq5NSPxmc3q715BgR_qaG0UB63jVaQa6vRVO8x/s1253/3.jpg"
+		},
+		{
+			"id": 51,
+			"name_category": "wallpaper",
+			"wallpaper_name": "wallpaper51",
+			"wallpaper_type": "IMAGE",
+			"wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI2m3xXBWbjhFNltVTwBACFE8seMBzbZf6iyAzYbxaFqiPuVhyD8b6b0yJPZq_tkFqm28rfatx1u-LXv_9Wjpy35yBb0plBuOVlzgdWafaNRVlc27aWUxzXTIJu1U9b2AwNlthPT9BM3NvurOYBUWeXMZrmk7gGHoPHaLQS6wNhZFQ3r0LP6JH7hJv/s882/1.jpg"
+		}
+	]
+}
