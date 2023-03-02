@@ -38,701 +38,324 @@
       "id": 1,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper1",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/8c/7a/48/8c7a48ea6e6dabac2634d8636525522c.mp4"
     },
     {
       "id": 2,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper2",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiycpyhsx9swVU_HL9mEHh1bzBGmsnlD_XH8Jj3rNjVO-4_d1KrhJNQxtMVT3hTp-bisFDfR-e6x61tnfK03C6-fGZaqzS8S0AM2jaanXj4zz7PdmyKmE7AucnrVzJKsAAi66PksjtxMkPuA2jhj3Erp2oHOyAh_hkFguPkMcbbcMunGPlCbuKvQMC/s640/sharingan%20live%20wallpaper%207.gif"
     },
     {
       "id": 3,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper3",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_type": "GIF",
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpWuil0vf32o_R-6-Xiyy5OsevslhVP0H6bl6DNfL8ww1CHuipI4pC6VnQuxD-mzZUUw-oJRGQ9qKDDk24QIY48FO5GpaE-1sgkSANqMt5sYFSepBrIGxDOEiSBS2RiKdAt0VUtaCcKMLX_SUkdNijMnTHc0xR_1d2l9bY9V7QWyqu6p2NShZA8Au1/s640/1%20(1).gif"
     },
 	{
       "id": 4,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6deHlOtwG-hRoX8rKINgsxk_4laMvWf0i6q0bgDKoblc6oi2FBaIf-WFX5lzsQH3YqvN1wG-vbHNrezzNhRBGRhYJXo9jVE7FgDrvrwkxX6tgatiKXF6sQyB9650CB83xZIJ2uLOmoLBMeyS_u-FzVCrrTlI5wWRwsteaDsLUF3I2tUWCdBtG6htf/s1280/1%20(1).jpg"
     },
 	{
       "id": 5,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjnl3u-zFoRculGHdMon3YecLuEdA1gzXINeu7aGLybINPGAna-u9gFKiAXcZtkLi9DMNAyH9vQpNj0YC__Eplfu-eAxSw7C7C6lENJ4ZMIcHiLe9S3jFIfSWaZyw95u1eiNEWySs7Zo2n_s57AJEMg0jTPrib1bJuhXuVderZ3RMSkx6pYFf3ENFS/s1280/1%20(1).png"
     },
 	{
       "id": 6,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBXmgUj5Gqvdudz22QYNzAHXBYBgz8Ae9j0b7Veg3j_z4W4eG7Nqv4yL8oiMFx3w-KQreKMHK9MsokJKQ9EVJY5_T0tXPbbgyoAiAnVJCxw34Hyb5OMmdSqvFseYuWhfg-Y_CwDeT3lLCOZi7wGmqFZXtRrRI6GwlPKiHyh4gC7fOUodwXQdV5DJCT/s1280/1%20(2).jpg"
     },
 	{
       "id": 7,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2Uy8dfR9Fb56rYcIUcWt_nVu2lsoHML5KlYs7GGQIriTGzWshiABbLPk3u2clVH1yYM9QiDQJODuFRALE_37jGxlZj2rHuiDmm8xK1pWEHu3T2HmIQNqsR3AWdDEFJGcDtJUWbTB9zzf1jJUuhDksKEkQBmoMTKMQ2oXvo8I1YRqk-ykTGWHDq-Kw/s1280/1%20(3).jpg"
     },
 	{
       "id": 8,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper8",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9ukexe8XoZAIQDTyLD1gVulRt2SCzLM26NqRYDrdCRt209MkQ09y-oG-wNpJAaXKfkKn65UUwm0btBYPT3Qz1ewQGGlVRKUTSmDnMbbeFYnp6LAfyeohbQ0LFSfbVUsg9RzU9fb_vykoS52yQhAAYj6frJRlWmt10CNhsaEt2s5sU2glLWhrVC07L/s1280/1%20(4).jpg"
     },
 	{
       "id": 9,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper9",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4VVvu7qWg_ucetgi6EO0Qke02IyCQBOifm0Mu4xB3xgZ_VyWCYISx4_PcNoGjH-Gv16wSQOUKkEnGkZ4aBnrj2U_9P6ETB8JxJ3gdswQzdW1bKwnIuDLzifbwpKYxyV9-Ji-Sh42PJ701OGTheawxjl7OiktwqgZv7xpbNge7HK37P39G72qN6B6/s1280/1%20(5).jpg"
     },
 	{
       "id": 10,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper10",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhskHBx_T61mD8zocfuHiWTgCnI0puDfGO3HoYg6tPzENTabCuJ-5t1jUHgmUDtyZ-jP0fS204BPkFrWbtLBdv7F_gIQ49eqOkCICltVZsvLxFTN6HkINF9qC-LLf-ie-MYsDOqCKQEgmnL_zxb9pO7xZlpuqfblGPlgH-CJuaCuwdBAWRjuecdTNRC/s1280/1%20(6).jpg"
     },
 	{
       "id": 11,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper11",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4TGAXchwpR5vPDBwVeKksEP5yB6xfPDcQ-98tNV1LS95uQ1DOykr_KlivwjsRXS5vGpGvjiNpMijxZ1M9iKTI35Tdz4i8j7li4kn5PHW976HrMlCXO-P3WJpThVOUywmL3BEL6YA739HRJTmx6C1c9F1aEMkhzjeCs_AIUU13OZCgk-rPR43dkaTV/s1280/1%20(7).jpg"
     },
 	{
       "id": 12,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper12",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj14U230d3jheJMSSQzPdcu__s3WQlU5Ie7Q2HMHEzrRGVCppb4_ZfiBvJZxHWrbBQuwD-CrCm7HMQsFb_WkE2_SHBT67Mey3M5LfVB1NZBB957dnS4T8RZhusUfy0LedoudfHZSq3wuMWunDAns_yeqfR3HFol_ckwTqAyqKQCJNsncxieOWkChkbH/s603/1%20(8).jpg"
     },
 	{
       "id": 13,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper13",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHKEPPCam7dfYQqbHo7fc0nQnIGOifYOX7XW1dgAN5vV2euXg0vYtwCE48v3jiYOf-JZQBvl_Zo163dE5hxap69muManA2vOvdeN0cP0oofQ2PCOv3VRslpPpAItK4NSk5q4nl6y3_iLn6JtV3l8lzYn5KpL-eu3bX7l472SWYDJ11RIUAF0bkkbHd/s1280/1%20(9).jpg"
     },
 	{
       "id": 14,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper14",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIAqWBPP63Jh-MwR-9t6n8vxAY0uejpFDxiR_ynFLWptm6HAaXk57ebQ_BXknBZSQoGyvsg_V1wITDE7YZg64yZNaYpz047dsZ_JvX7L3ehLPFNmUa4qNOLik0SlnoHs07QjG_TQALErnLmxxj_XA6N8iFEDWCQkv8WLAlcrTHPZRuUkdqfaek4y3F/s1280/1%20(10).jpg"
     },
 	{
       "id": 15,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper15",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn8s2abtoV-wt3_oMu2-53Aeyl5X_py5nTtC9h5Ua7NAqCGHTOi6jlsa2qgxzEc4az9LoS0nQEfZLm3bZIulCKrpeDX0J1xnYUdtPJ-o01p5E_9_CaJmEqseepOVoj12aJJQ6-KcXPO8IQ3DGuvI3aZ0JMTFlvP8_86qzNco6nGqRuZ4nxEHQJJX41/s1280/1%20(11).jpg"
     },
 	{
       "id": 16,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper16",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIJMzfTRKukOP2Idh-YXp4RyvpqFKIlW6AX0buCTmFQjcnBhZ8FvI_xOXXoILKxjnqSasdBECxwCL_n3l1iQX26UdhhOSD59lJEB-6W5TQjguj-wjN3J-7MWwEkPjjvl3GJ6dolcIeFMoFRAc3ZcQDwilTu6pysYu_ySZn8ivKfLVhfxpARitbfRc3/s1280/1%20(12).jpg"
     },
 	{
       "id": 17,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper17",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS7PsrC9UlkVNAPkFj29mNiNk_YoIyCM9_a2Ei41wNDAwj7qMbUGipHwPuFXxsSchbfyuOOelqY38QZTZ9CTbi0blPtOo3xcTcTF4qkO_juMHdFyZsKmvGqKHdgCaFXx7BMFUioNwgwM1HM8CiGDMwT14E2B-3CDnTkr0yRT_KGa5kHNCQeB4JMGo4/s1280/1%20(13).jpg"
     },
 	{
       "id": 18,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper18",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg66tkqpKLnaAES6CPluOYqLVGAFLf_VK0D-VrwVUcDQ_g6mlPcrHHbkA_bBXqaDswuINiXjfvDcHcs5sF68ivGOImswVU8ujdkaOucL8Jqf2PqVNt6Gcthbc6-DCQ27sSW5Azo6xuJ8ohECy-7ONz2OYeIAyiLHba17c0ICT_hAxl7J9kZaufsE5k6/s902/1%20(14).jpg"
     },
 	{
       "id": 19,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper19",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4Mpb5XES9mbHQHv7gdSBD4uTu-vxv6LkEv-NdM6wry8MGXGJTrpjHzO3ioGAn7DNZCiFTOTLJBHaA3qj4ol7TyaXeWPpV3xGOAzPHDk_tVSreBN_bnNuX407MARvsyj4Di4GygSVM9G4LCYWwgPnTXVweO14726mCKnujZpr1AQDELXo1XB_7zueu/s1280/1%20(15).jpg"
     },
 	{
       "id": 20,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper20",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6785xL-TS1MK-NiOdi2VtupIE2od6S5-UwQX2DCFKknmn6qnZYj4jazqxaVUF6wPFGhNcf0R9KAiDpH8UOwB0v62zGw3HS1Vm7tCY875hOtLE6hIc3oBwz4Me9FgEn9Pvs2ET_nSMA72GQno86cJd7E22IhsAB8Tzqdw7l6LluSBrIeDn01z1lq6m/s1280/1%20(16).jpg"
     },
 	{
       "id": 21,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper21",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWAk2ligB0S7aAbQi_YpTxSyYHzkN4Gy_1Lf5GA2BFVvaDAYiSPahI7DgrM7aUJ5C57kN6vJsiPE3CZrekHG1O9R9dFB_0gh3bDkQ1kcm_wCzbV8k4F5yXMFWaJhNnFs5DgyN0UMSi2Kj2S4q0GAyuZRYdwVLYD9ZcxPAN4fOjFZSnBeTjvFp6mrcQ/s1280/1%20(17).jpg"
     },
 	{
       "id": 22,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper22",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijXYcQuVHAprf9_GJWwm7kCzMJ2zJDmnPqiUN8QiAEl1smdaJ_pfnwJDoMXqTBdvDG9lorsL5UxiFou5UDjBD5L8T3aWX_hBMM10CKMTCqAH_pee4iAm_Cuowh_scjynZubsfyKmBqmR56U-BAI2sAKgsWf1hn1Z5dwnSvVRlSwbaKN88ZG6ixeXWg/s1280/1%20(18).jpg"
     },
 	{
       "id": 23,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper23",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4YEm19GD56I4GmrA8R4Fsonn2BBtUGQ-I9Iev0GcwqToKQOpywjQt_hL6JcUPXg-37ZwaD82z645KnTkJxAeOHzvvL9Ai-2FcTz4j4tqCtFqPwIbxdsD7XRl6_s1fT-8w1PSr2QWla4fv8SvGX5obPpVw8C4QMhS5UAl44xV1aa5LvjOxZvtXLzvy/s1280/1%20(19).jpg"
     },
 	{
       "id": 24,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper24",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkSM47YYlzmMrybdiSjOIC8RlAk6YS6koQiUrJ-dj-BYh_r5ZQSpRxU2ek-CLlmqhfx1wP3hI87Q8fkthjUvgcip0PyNV6dEIBP52pelGnKAytOvdE-ZEHwbKSMxb2lNqQc_0FHFTsA7znh-gUjR5AM00Yu9aF3PL36ZdVFh9q11tv_7r172VWJOU6/s1159/1%20(20).jpg"
     },
 	{
       "id": 25,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper25",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1a_NjwykKhs2vROjw2kGsIs8Ilcxqaqz-C9whj1UNVEw-ZQ8U7b0BrPy3Kig_CCEZk-S_2I-d-ZJHkY6okSzc3yepABseHjMN9ru9uaZTjkmLaEzP_523AiBndhZXEr9Ww3s3NWd8eO3MXwMsKlk6tkvKCdQnsQUe9NhmW5xq56SwB2vJEp9mT7va/s1280/1%20(21).jpg"
     },
 	{
       "id": 26,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper26",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgxBlfl1DMCFmafV2cO2jaGvnTLLBNoNWaukcfeuE6DN7BNGZd30iKgyZ2Nogp7-Dic---V2aK4lY4jHtxCQDMvDbEa2QV9rsLj3QeMUlzeDHFeHsuFlCvCn-nTGahiNb2qT9zh1fM8nwnxWdwlNkJuLb_JQ3yOTzmCbhY2litE3p54yOnYmQgzJ2O/s1280/1%20(22).jpg"
     },
 	{
       "id": 27,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper27",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhF3eUf87slhNZ2xsTi74Bpp5GKmbQB8OEr_ZmAnULAyz8Jlli42Gx6IyU0FraSZJV00slrAgQxaee0ETs6kl5LvoZGx3g9B_0usPNdDFWBu7rcZuIIFFdMnbYBcjWubl0jNDgt2s8isltU9VVGkcZew3XlFYIdh2e7f1WnKrXnqk69fsRvxkFogbzR/s1280/1%20(23).jpg"
     },
 	{
       "id": 28,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper28",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJtLgZGkrNM0TS3WH3AgYb2ZIGS6jRPuSp2qJcwVNy3NBd3HNIZNhMXaRT7cljdhLFOrbfMWRTw1MBTpyWD0Zeo5VoktWc2-h9UPFIvFmHqz7p6G2iyCz5Zha3ZjnfcCRFQ4A92pDE1X98NcUKj-QKkBuUpUhtHaxSmxjvjUx6zn_rZpLRKneapUh_/s1159/1%20(24).jpg"
     },
 	{
       "id": 29,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper29",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDGlv8v-3kAWDeZaN4-k85Gknktg__xT_Nnt6VPhAqWpCZskkeEoBlKRspPeHy66_Hiwx9uMhpNSHTZdUhEJbBRR6uZdgjF4oRGLtgpQ_rVvE6b7zclsQ7dZ4bWMF9OXDEiLpQeLgAXCCd4t48ouSZDMuqdzKeGgkhtrppNBmBBebOE3O78_XrLPOu/s1280/1%20(25).jpg"
     },
 	{
       "id": 30,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper30",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyBd_p9P2a8tYdZkP893_2d4JvFg1Z20w9nrNgNJ6an41ivzKaqNTW2R_vL-0FR1Ti4KyuLB37BMqLoXzxl9yPG3l3Fp-jvu__FB5tS4xBaW63uBuDOoTFjRrDhEG572GOzTPNsZpw4Sq35BC5fS8Z2Vx92Ry34PfO0lJX-dVtcEwO2ma-EojfeEFx/s1280/1%20(26).jpg"
     },
 	{
       "id": 31,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper31",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPR0bGz-iuahknNRdZgCGuJa9owwvPSJ0JRAGU58kEEBbVmEOKGDPKEAeheeap98bkSuXGAY_rMdrP2REWOaVJjJcc9R4I4NMwBx7GcVb6t8GJ31TZJdQRWJEfNL-c6GbZz85XiB3O2i0b2BuhmJtI0RJxiJX-I34P6cTPbKkViCXkEFzKmCfFwYYM/s603/1%20(27).jpg"
     },
 	{
       "id": 32,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper32",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJt_bAgCrLHQSYuLRgkDMFjaBjAB61vOc42IPV7AIuj974fokJwLecIkmhinMVwN8SLKmQErTwLSOuPWlNXy439_hoO4zPcqc8fRiop5nF5zOmNuMP3RJ_kEI6h00crCuzmCECx5wgyCcFEmx7nxzF3m2ZlUZUPBGTMh6Qu5IsQ7K8qpdInyoYUvzp/s1280/1%20(28).jpg"
     },
 	{
       "id": 33,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper33",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRrRqAOrR-2Jn-rrX37xQDn5kK0bySvvZ3aXZH2Rk0rj2hiofJ73JIhYsLAwZwFIgwsyet-a2cFti_z53tV0k3JwagnHpNJY4Bhz_JrNlfOX0BZ_EWxzPVtQlklMPG9cuBFXp_tAzJLQ3AjXS-E8LR6YUv012FRbbtVjBH5CUIWpm14lkTZcy54yd3/s1159/1%20(29).jpg"
     },
 	{
       "id": 34,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper34",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEharUU8xs4U-en-T1lUWWyPmHspYw-BYAWesmw0qvd-vsnPXfuYPd2BM6ikaaQGKIrzzuIp8rYW9cfuM5fB3ypVjkAP4rDvfUPNOW7jQXKuvgkOY4XL-ZastqFgik44I9ClZADbnrgRI-gZTSX-r3wXUXp0bzXB9pcTLReBqgQCy4MwXWW4qfEBWNNJ/s1280/1%20(30).jpg"
     },
 	{
       "id": 35,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper35",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmHd8tn4fOM8faCJ2-dffVhn063Z9ErB9Yyld8p1LvnvBEo9fYSNSLhaAaQY5gC38QKfw4tvhH2xTJa3atTlMONmnaFSRTaK9JN1YANdEcS9QFgBjBO2U767AjpxP8UIvMSBse_uI2lgE-7WUAHR5iA3BaN8-cpDE023Ka-o8IHI_VSK9EF2Z-F_cg/s1280/1%20(31).jpg"
     },
 	{
       "id": 36,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper36",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje7CvzWD1ORttTFFh8sK4IQgxBh0GL5JvB3U5b0kDtTxlTSmPk2wB-tMbjHhio99g2ezS4_MuqXallixsG3AXY9a8fMgcOzT8Jkdl1jDnSWcpigSEP2-7hK5r55q3FszxiiYvpuTP3lyoAoItYmb3F9fKcbIfoeDVbNHCC3epTqiv1ZvFe9prMxApJ/s1280/1%20(32).jpg"
     },
 	{
       "id": 37,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper37",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikaZZFeySAf9VNC1_bdS-4lckWm0gqpZYKcRz3qageU-vPdqaoj8mBHOcY88RMb7KdE3HzNKpMgNmJWNY3DhRI-VyNky41bkEbMcblaAI_1I9PqgjNeV3Ol22xrTcJR-sGpt4hRerMvmZo3tECNPX8XbpYvu7nohGbN5eThGCg5x_zj7Lk5lwpA-CU/s1280/1%20(33).jpg"
     },
 	{
       "id": 38,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper38",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtkhfO4lSrHbKupbwGT4cyfZ99pyzNz613FH89Q4hGMUGCTvnU7V0HJinDRQEOxtnPSn52mAjjNjHYcbbbblO0VciuJwTFG8P-rGV47Z2AYO4x8i6KhKPQUDr99u5qHQ8udQ0JDZBU6lxSqPBLaSNR4ko56G-cOWRp_fLWahziZ6zuET-BYU8LgQZu/s1280/1%20(34).jpg"
     },
 	{
       "id": 39,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper39",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlrMDdZ356nvNFeJde4Ro8I0D7zva1R_lyQL6GqCePjlsibSedXZDsAYeh_mCMch-1J71Bb5Fx3pg9UsCi0XAo9ca2ncULCqoOgtP3sVDthjDa1uPTuQe6QV_JfrGUkWBmg94X3aYglS7mOS84E7FCkPTI9-AVJjGbuhAWKRQJIzESNV7uc0zvE2hJ/s1280/1%20(35).jpg"
     },
 	{
       "id": 40,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper40",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibShoqmWYRMDv0thPnkJE6zWyENykUtS2LUOWTqNUMN3nW6Jh8MMWuslx3LoHHlZ4dhpPlIx3SrRezzm6hrs6r_vZUWuvjvQlpNW_-dgxqNoTK9hhQoYmcSF2ICM7BUbjPsGKiUVbOocpEAVLsVbb5zeNDJg7p-pEr5WWsR9k5g6BfBmE_QvXTT6ru/s1280/1%20(36).jpg"
     },
 	{
       "id": 41,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper41",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhba1YeZM0CWO9_RaGV1JkY5rVfkGMveXTiiHP82SNsdEX3NRO_w3u42k7em6VqIBg9hPr0yn7AgYhEHyXzoz853DlH1hbJx4A--EBLrml1D5xbhzkLzca5yrnCR5qm7AVOSCyihD1TrvH3Mnwl2BZvGjE2RRI5e60hyhCf-QZAue4xcsILaqbVeGEG/s1280/1%20(37).jpg"
     },
 	{
       "id": 42,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper42",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqaupuESdweqomdNfT84MFkPjDlUuLjpfsIusXY8FeF6CvR3u-nLrsuY5aEgI5jrscObrs9yZiqohJsFhcS4_o5molbgRMdinXGQRDKQQGlB3lUig-CMPxOTmGWAkhDK6XcXFgL_AudrsW84Y7BJvNnzUmQ6OkjbDPU61U5-aKn2FPJAFCDM0d5eek/s1280/1%20(38).jpg"
     },
 	{
       "id": 43,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper43",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLWkfXWjTzI2byGxPFCALqvG5X9YtOZrI15TFNLxo2hZMSr06IcifvLFCx7QfOa621sQR3GxhATtgFZhGE-q9JLq_1Tsxh4hx6XA9_OVGEXW9uM3VkFNQeity3awmnMPZ7eLcvP7Ke8l6QMswKuOJtnBONe2NbqsyTwDJM0HN_u78ewCIoOcFfVeHE/s1280/1%20(39).jpg"
     },
 	{
       "id": 44,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper44",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsGHaj7HbrV75oQg9cjCUAkeQ7_UwNJxXAEmllqyeAY_r93plWOMzHH_U2ffuEGNpdvXX1sr6nHfa8w7sAHq-HHdqsQ9pqB3eAaI8dZhO_nduKACDJ5OA9pvwhQelGWiUEeA0h-r9A120bdyaRHTZdoYUvhpyPqVG51jKg9MWU7xNlZHHhzoEnnClg/s1920/1%20(40).jpg"
     },
 	{
       "id": 45,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper45",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG3EB_gFGLu0lDoMe0QsfnZUUEdSf-SodTAmbCt4F1z9pQlZTnJtnmTsPXPn4fOlT086GzD_kiWbU4Pm5LBLLT3l2X4wmYYyVW1p_um_x3XjvkP_34Io7VRvVo68QN-wpL_-CTId8WGS7yjHxqXh6jsCwYjcmE5lp1sUNDSPssbof8QpF5bfboV4B4/s1280/1%20(41).jpg"
     },
 	{
       "id": 46,
       "name_category": "wallpaper",
       "wallpaper_name": "wallpaper46",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 47,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper47",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 48,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper48",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 49,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper49",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 50,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper50",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 51,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper51",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 52,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper52",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 53,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper53",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 54,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper54",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 55,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper55",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 56,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper56",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 57,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper57",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 58,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper58",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 59,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper59",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 60,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper60",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 61,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper61",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 62,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper62",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 63,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper63",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 64,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper64",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 65,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper65",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 66,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper66",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 67,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper67",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 68,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper68",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 69,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper69",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 70,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper70",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 71,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper71",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 72,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper72",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 73,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper73",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 74,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper74",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 75,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper75",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 76,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper76",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 77,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper77",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 78,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper78",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 79,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper79",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 80,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper80",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 81,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper81",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 82,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper82",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 83,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper83",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 84,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper84",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 85,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper85",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 86,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper86",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 87,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper87",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 88,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper88",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 89,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper89",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 90,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper90",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 91,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper91",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 92,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper92",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 93,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper93",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 94,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper94",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 95,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper95",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 96,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper96",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 97,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper97",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 98,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper98",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 99,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper99",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
-    },
-	{
-      "id": 100,
-      "name_category": "wallpaper",
-      "wallpaper_name": "wallpaper100",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": ""
+      "wallpaper_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitCHH8i3shjmXWRAMvQ_LK8LpyShd1mLlNkYxgd72KXK7Vd0oLI5XRUxrlSmBGC69m0C1UjJIQ1Domv6KXSknXkrVOz6uv-ayl1FAObo0sOfUwIFcDQXZZBDTElDIdZQyhHbnBmFlZ89NxgO3w0HXUNUUa5BZQKe8-uYDVZo891m-bjQ7MdzxYPAMa/s1280/1%20(42).jpg"
+    
     }
   ]
 }
